@@ -22,7 +22,7 @@ const Initialheader = () => {
           </div>
           
           <div className="ml-2 md:ml-4 max-w-[230px] sm:max-w-xs md:max-w-md lg:max-w-full whitespace-normal">
-            <p className="text-[8px] md:text-lg lg:text-2xl font-medium">
+            <p className="text-[9px] md:text-lg lg:text-2xl font-medium">
               Indian Institute of Information Technology Vadodara
             </p>
             <p className="text-[8px] md:text-base lg:text-lg font-medium">
